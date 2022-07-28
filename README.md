@@ -1,2 +1,2 @@
-# instagram2
+# webinstagram
 Created with CodeSandbox
